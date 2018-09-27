@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "twitterclonedb.cggzwdmz5kua.us-east-2.rds.amazonaws.com",
+    "host": "localhost",
     "port": 5432,
-    "url": "twitterclonedb.cggzwdmz5kua.us-east-2.rds.amazonaws.com",
+    "url": "",
     "database": "twitterclonedb",
-    "password": "twittercdb123",
-    "name": "db",
-    "user": "stresslessness",
+    "password": "",
+    "name": "postgresqlDS",
+    "user": "",
     "connector": "postgresql"
   }
 }

@@ -5,7 +5,7 @@
     "url": "twitterclonedb.cggzwdmz5kua.us-east-2.rds.amazonaws.com",
     "database": "twitterclonedb",
     "password": "twittercdb123",
-    "name": "postgresqlDS",
+    "name": "db",
     "user": "stresslessness",
     "connector": "postgresql"
   }

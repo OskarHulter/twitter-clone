@@ -5,7 +5,7 @@
     "url": "",
     "database": "twitterclonedb",
     "password": "",
-    "name": "postgresqlDS",
+    "name": "db",
     "user": "",
     "connector": "postgresql"
   }
